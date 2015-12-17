@@ -1,0 +1,7 @@
+{
+  "name": "Particle_Adafruit_GFX",
+  "author": "Paul Dale",
+  "license": "MIT",
+  "version": "0.0.10",
+  "description": "A modification of the Adafruit GFX library to make it compatible with Particle and c++ containers"
+}
